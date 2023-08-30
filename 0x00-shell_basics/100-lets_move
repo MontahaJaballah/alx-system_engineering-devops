@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upeer:]]* /tmp/u
+mv [:upeer:]* /tmp/u
